@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Favorite Twitter Searches</string>
+    <string name="tag">Tag your query</string>
+    <string name="searchBox">Enter Twitter search query here</string>
+    <string name="taggedSearches">Tagged Searches</string>
+    <string name="edit">Edit</string>
+    <string name="clearTags">Clear Tags</string>
+    <string name="save">Save</string>
+</resources>
