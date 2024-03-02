@@ -13,3 +13,7 @@
 
 ![Image 5](screens/tabletView_landscape.png)
 
+![Image 6](screens/screen_androidEmulator.png)
+
+
+
